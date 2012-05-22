@@ -1,0 +1,7 @@
+# kinect-3DMesh
+This is a little openFrameworks tool that generates a 3D mesh from the Kinects distance pixels.
+
+## Features
+- Ability to create triangulated meshes
+- Export to STL (save with 's')
+- Fancy color effect (toggle with 'c')
